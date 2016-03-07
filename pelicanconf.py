@@ -6,7 +6,7 @@ AUTHOR = 'pvos'
 SITENAME = 'Pioneer Valley Open Science'
 SITEURL = ''
 
-THEME = "/home/dwblair/gitwork/pelican-pvos-themes/blueidea"
+THEME = "./themes/blueidea"
 
 PATH = 'content'
 
